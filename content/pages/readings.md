@@ -54,32 +54,401 @@ Kieso, D., and J. Weygandt. _Intermediate Accounting._ 9th ed. New York: John Wi
 
 **Note on text problems: "Do" are problems that will help you prepare for class; but they do not have to be submitted. "Opt" are problems that you could optionally do if you want more material to study.**
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Overview of the course, Administrative matters, Discussion of Accounting Framework | Pratt: skim Ch. 1, incl. Appendix 1A |
-| 2 | The Balance Sheet and the Recording of Transactions | Pratt: Ch. 2 and 3, skim Ch. 5  {{< br >}}  {{< br >}}Do: P2-1, E3-3  {{< br >}}  {{< br >}}Opt: P2-3, P2-4, P2-9 |
-| 3 | The Income Statement and Principles of Accrual Accounting | Pratt: Ch. 2 and 3, skim Ch. 3  {{< br >}}  {{< br >}}Do: P2-2, E2-4  {{< br >}}  {{< br >}}Opt: E2-12, ID2-7 |
-| 4 | The Income Statement and Principles of Accrual Accounting (cont.) | Pratt: Ch. 3 and 4, skim Appendix 4A  {{< br >}}  {{< br >}}Do: P3-7, E4-19, E4-2  {{< br >}}  {{< br >}}Opt: E4-5, E4-16 |
-| 5 | The Accounting Process | Case: Chemalite, Inc. |
-| 6 | Revenue Recognition | Pratt: Ch. 3 (pp. 83-85) and Ch. 6  {{< br >}}  {{< br >}}Do: E6-6, E6-8  {{< br >}}  {{< br >}}Opt: P6-7 |
-| 7 | Revenue Recognition (cont.) | Case: Circuit City  {{< br >}}  {{< br >}}Pratt: Ch. 6  {{< br >}}  {{< br >}}Do: P6-3, P6-4  {{< br >}}  {{< br >}}Opt: P6-10 |
-| 8 | Inventory/Cost of Goods Sold | Pratt: Ch. 7  {{< br >}}  {{< br >}}Do: P7-4, P7-9  {{< br >}}  {{< br >}}Opt: P7-6 |
-| 9 | Statement of Cash Flow | Pratt: Ch. 14  {{< br >}}  {{< br >}}Do: P14-2, E14-8  {{< br >}}  {{< br >}}Opt: E14-7 |
-| 10 | More on the Statement of Cash Flows/Exam Review | Do: E14-9, E14-10 |
-| 11 | First Exam | &nbsp; |
-| 12 | Long-term Assets/Depreciation (Deferred Taxes) | Pratt: Ch. 9, incl. App. 9A and 10B, pp. 439-442  {{< br >}}  {{< br >}}Do: E9-5, E9-18, E10-11  {{< br >}}  {{< br >}}Opt: ID9-7, BE9-3, P10-8 |
-| 13 | Matching Principle for PP&E | Case: Depreciation at Delta and Pan Am |
-| 14 | Marketable Securities (Deferred Taxes) | Pratt: Ch. 8 (through p. 332)  {{< br >}}  {{< br >}}Do: E8-2, E8-5, P8-6  {{< br >}}  {{< br >}}Opt: P8-5 |
-| 15 | Marketable Securities, Time Value of Money | Pratt: Appendix B  {{< br >}}  {{< br >}}Do: EB-11, EB-14 |
-| 16 | Long Term Debt | Pratt: Ch. 11 through p. 476 Appendix 11A  {{< br >}}  {{< br >}}Do: E11-5, E11-9  {{< br >}}  {{< br >}}Opt: E11-3, E11-18 |
-| 17 | Leases and Off-Balance Sheet Financing | Pratt: Ch. 11 (p. 483 to end)  {{< br >}}  {{< br >}}Do: P11-13, P11-14  {{< br >}}  {{< br >}}Opt: ID11-6 |
-| 18 | Current Liabilities and Contingencies | Case: Accounting for Frequent Fliers  {{< br >}}  {{< br >}}Pratt: Ch. 10  {{< br >}}  {{< br >}}Do: E10-9, P10-2  {{< br >}}  {{< br >}}Opt: P10-5, ID10-1, ID10-3 |
-| 19 | Midterm 2 Review | &nbsp; |
-| 20 | Second Exam | &nbsp; |
-| 21 | Intangibles and Business Combinations | Pratt: Ch. 8, pp. 332-339  {{< br >}}  {{< br >}}Do: P8-10, P8-14 |
-| 22 | Introduction to Cost Concepts | CP: A Brief Introduction to Cost Accounting; Activity Accounting: Another Way to Measure Costs; On the Folly of Rewarding A, While Hoping for B |
-| 23 | Indirect Allocation of Costs, Destin Brass | Case: Destin Brass Products |
-| 24 | ABC, Destin Brass | Case: Destin Brass Products |
-| 25 | Managerial Accounting Wrap-up, Seligram Discussion | Case: Seligram Inc. Electronic Testing Operations |
-| 26 | Course Review/Wrap-up | &nbsp; |
-| &nbsp; | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of the course, Administrative matters, Discussion of Accounting Framework
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: skim Ch. 1, incl. Appendix 1A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Balance Sheet and the Recording of Transactions
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 2 and 3, skim Ch. 5  
+  
+Do: P2-1, E3-3  
+  
+Opt: P2-3, P2-4, P2-9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Income Statement and Principles of Accrual Accounting
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 2 and 3, skim Ch. 3  
+  
+Do: P2-2, E2-4  
+  
+Opt: E2-12, ID2-7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Income Statement and Principles of Accrual Accounting (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 3 and 4, skim Appendix 4A  
+  
+Do: P3-7, E4-19, E4-2  
+  
+Opt: E4-5, E4-16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Accounting Process
+{{< tdclose >}}
+{{< tdopen >}}
+Case: Chemalite, Inc.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Revenue Recognition
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 3 (pp. 83-85) and Ch. 6  
+  
+Do: E6-6, E6-8  
+  
+Opt: P6-7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Revenue Recognition (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Case: Circuit City  
+  
+Pratt: Ch. 6  
+  
+Do: P6-3, P6-4  
+  
+Opt: P6-10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory/Cost of Goods Sold
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 7  
+  
+Do: P7-4, P7-9  
+  
+Opt: P7-6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Statement of Cash Flow
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 14  
+  
+Do: P14-2, E14-8  
+  
+Opt: E14-7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+More on the Statement of Cash Flows/Exam Review
+{{< tdclose >}}
+{{< tdopen >}}
+Do: E14-9, E14-10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+First Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Long-term Assets/Depreciation (Deferred Taxes)
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 9, incl. App. 9A and 10B, pp. 439-442  
+  
+Do: E9-5, E9-18, E10-11  
+  
+Opt: ID9-7, BE9-3, P10-8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Matching Principle for PP&E
+{{< tdclose >}}
+{{< tdopen >}}
+Case: Depreciation at Delta and Pan Am
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Marketable Securities (Deferred Taxes)
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 8 (through p. 332)  
+  
+Do: E8-2, E8-5, P8-6  
+  
+Opt: P8-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Marketable Securities, Time Value of Money
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Appendix B  
+  
+Do: EB-11, EB-14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Long Term Debt
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 11 through p. 476 Appendix 11A  
+  
+Do: E11-5, E11-9  
+  
+Opt: E11-3, E11-18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Leases and Off-Balance Sheet Financing
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 11 (p. 483 to end)  
+  
+Do: P11-13, P11-14  
+  
+Opt: ID11-6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Current Liabilities and Contingencies
+{{< tdclose >}}
+{{< tdopen >}}
+Case: Accounting for Frequent Fliers  
+  
+Pratt: Ch. 10  
+  
+Do: E10-9, P10-2  
+  
+Opt: P10-5, ID10-1, ID10-3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm 2 Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Second Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Intangibles and Business Combinations
+{{< tdclose >}}
+{{< tdopen >}}
+Pratt: Ch. 8, pp. 332-339  
+  
+Do: P8-10, P8-14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Cost Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+CP: A Brief Introduction to Cost Accounting; Activity Accounting: Another Way to Measure Costs; On the Folly of Rewarding A, While Hoping for B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Indirect Allocation of Costs, Destin Brass
+{{< tdclose >}}
+{{< tdopen >}}
+Case: Destin Brass Products
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+ABC, Destin Brass
+{{< tdclose >}}
+{{< tdopen >}}
+Case: Destin Brass Products
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Managerial Accounting Wrap-up, Seligram Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Case: Seligram Inc. Electronic Testing Operations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Course Review/Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
