@@ -4,6 +4,7 @@ description: This handout contains all the relevant equations and formulae for t
   final exam.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/33705399b5f95a8ee60976e2e64667c6_formula.pdf
 file_type: application/pdf
+parent_uid: c92d66d7-30cf-451b-d3f6-c6577951ffd3
 resourcetype: Document
 title: formula.pdf
 uid: 33705399-b5f9-5a8e-e609-76e2e64667c6

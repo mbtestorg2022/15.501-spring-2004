@@ -5,6 +5,7 @@ description: This resource includes problems on depreciation, deferred taxes, an
   to help the student learn and practice the mechanics of the course material.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/2cccd7592a8ba43469bce1adbe24f7f7_ps6.pdf
 file_type: application/pdf
+parent_uid: 6e772e47-ed81-7b21-98a3-e287008dacf3
 resourcetype: Document
 title: ps6.pdf
 uid: 2cccd759-2a8b-a434-69bc-e1adbe24f7f7

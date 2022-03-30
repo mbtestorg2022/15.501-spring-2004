@@ -4,6 +4,7 @@ description: Lecture presentation containing a discussion of the structure and t
   of the midterm exam.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/2e2d6ae5c32c5c3b3d786732af5ac4f8_lecture10.pdf
 file_type: application/pdf
+parent_uid: 958d1c15-5079-76f4-6b61-537e48852700
 resourcetype: Document
 title: lecture10.pdf
 uid: 2e2d6ae5-c32c-5c3b-3d78-6732af5ac4f8
